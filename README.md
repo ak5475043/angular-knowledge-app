@@ -20,6 +20,8 @@ This codebase was created to demonstrate a fully fledged application built with 
 Additionally, there is an Angular 1.5 version of this codebase that you can [fork](https://github.com/gothinkster/angularjs-realworld-example-app) and/or [learn how to recreate](https://thinkster.io/angularjs-es6-tutorial).
 
 
+
+
 # How it works
 
 
