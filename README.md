@@ -8,7 +8,8 @@ fhyhyt
 
 
 
-> ### Angular codebase conrtmjkhyttainijk,lgng real world examytuytjples (CRUD, auth, advanced patterns, etc) that adheres to the [RealWorld](https://github.com/gothinkster/realworld-example-apps) spec and API.hg
+> ### Angular codebase conrtmjkhyttainijk,lgng real world examytuytjples (CRUD, auth, advanced patterns, etc) that adheres to the [RealWorld](https://github.com/gothinkster/realworld-example-apps) spe
+> c and API.hg
 fd
 
 
