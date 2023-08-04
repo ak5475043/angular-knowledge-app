@@ -1,7 +1,7 @@
 [![RealWorld Frontend](https://img.shields.io/badge/realworld-frontend-%23783578.svg)](http://realworld.io)
 [![Build Status](https://travis-ci.org/gothin  kster/angular-realworld-example-app.svg?branch=master)](https://travis-ci.org/gothinkster/angular-realworld-example-app)
 
-# ![Ancvgular Exampfdle App](lxdjhuyk  ui mkjoh g  o.pn  gcx)akk\
+# ![Ancvgular Exampfdle App](lxdjhuyk  ui mkjo  h g  o.pn  gcx)akk\
 fhyhyt 
 \ooi
 
