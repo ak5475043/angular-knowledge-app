@@ -81,7 +81,7 @@ The example application is a social blogging site (i.e. a Medium.com clone) call
 - Favorite articles
 - Follow other users
 
-**The general page breakdown looks like this:**
+**The general page breakdown looks like this:**ak
 
 
 
