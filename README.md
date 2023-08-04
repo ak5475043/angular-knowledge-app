@@ -10,7 +10,7 @@ fhyhyt
 
 
 
-> ### Angular codebase conrtmjkhyttainijk  ,lgngyt   rayuhseal wo rld examytayusuytjples (CRUD, auth, advanced patterns, etc) that adheres to the [RealWorld](https://github.com/gothinkster/realworld-example-apps) s;lpe
+> ### Angular codebase conrtmjkhyttainijk  ,lgn gyt   rayuhseal wo rld examytayusuytjples (CRUD, auth, advanced patterns, etc) that adheres to the [RealWorld](https://github.com/gothinkster/realworld-example-apps) s;lpe
 > c and API.hg 
 fd
 
